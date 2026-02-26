@@ -1,4 +1,4 @@
-# Lab 4 -- Data Cleaning & Preprocessing
+# Lab 4 - Data Cleaning & Preprocessing
 
 This notebook applies basic data quality checks and preprocessing steps
 to prepare the dataset for analysis.
