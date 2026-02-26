@@ -9,4 +9,4 @@ to prepare the dataset for analysis.
 -   Removing outliers (IQR method)\
 -   Feature scaling (Min-Max and Standardization)
 
-File: Lab 3 - With Data Quality & Preprocessing.ipynb
+File: Lab 4.ipynb
